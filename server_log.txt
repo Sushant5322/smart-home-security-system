@@ -1,0 +1,192 @@
+/Users/apple/smart-home-automation/smart-home-automation/venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Starting UI server: http://localhost:5000
+UI Connected
+Emitted to UI: {'name': 'sushant', 'confidence': 47.92258352702423, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763886, 'timestr': '2025-12-03 17:41:26'}
+Emitted to UI: {'name': 'sushant', 'confidence': 46.186714785974786, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763891, 'timestr': '2025-12-03 17:41:31'}
+Emitted to UI: {'name': 'sushant', 'confidence': 55.451543078635815, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763898, 'timestr': '2025-12-03 17:41:38'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.403218020924776, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763903, 'timestr': '2025-12-03 17:41:43'}
+Emitted to UI: {'name': 'sushant', 'confidence': 45.771599513677394, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763908, 'timestr': '2025-12-03 17:41:48'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.56495565008572, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763913, 'timestr': '2025-12-03 17:41:53'}
+Emitted to UI: {'name': 'sushant', 'confidence': 56.884789493308794, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763919, 'timestr': '2025-12-03 17:41:59'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.958143943337724, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763924, 'timestr': '2025-12-03 17:42:04'}
+Emitted to UI: {'name': 'sushant', 'confidence': 47.723902908916564, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763929, 'timestr': '2025-12-03 17:42:09'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.221915159943684, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763934, 'timestr': '2025-12-03 17:42:14'}
+Emitted to UI: {'name': 'sushant', 'confidence': 47.972466908288204, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763939, 'timestr': '2025-12-03 17:42:19'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.613511491428326, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763944, 'timestr': '2025-12-03 17:42:24'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.49214347503111, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763949, 'timestr': '2025-12-03 17:42:29'}
+Emitted to UI: {'name': 'sushant', 'confidence': 48.672867031643065, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763954, 'timestr': '2025-12-03 17:42:34'}
+Emitted to UI: {'name': 'sushant', 'confidence': 46.24698797391722, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763959, 'timestr': '2025-12-03 17:42:39'}
+Emitted to UI: {'name': 'sushant', 'confidence': 45.96808423168689, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763964, 'timestr': '2025-12-03 17:42:44'}
+Emitted to UI: {'name': 'sushant', 'confidence': 46.73727428094361, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763969, 'timestr': '2025-12-03 17:42:49'}
+Emitted to UI: {'name': 'sushant', 'confidence': 46.55199329086371, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763974, 'timestr': '2025-12-03 17:42:54'}
+Emitted to UI: {'name': 'sushant', 'confidence': 47.98198672948998, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763979, 'timestr': '2025-12-03 17:42:59'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.43161232120284, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763984, 'timestr': '2025-12-03 17:43:04'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.38836914383717, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763989, 'timestr': '2025-12-03 17:43:09'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.2682452256218, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763994, 'timestr': '2025-12-03 17:43:14'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.667313920486855, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764763999, 'timestr': '2025-12-03 17:43:19'}
+Emitted to UI: {'name': 'sushant', 'confidence': 53.174921489610725, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764004, 'timestr': '2025-12-03 17:43:24'}
+Emitted to UI: {'name': 'Nitin', 'confidence': 54.008677311091716, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764006, 'timestr': '2025-12-03 17:43:26'}
+Emitted to UI: {'name': 'sushant', 'confidence': 54.123837928568214, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764009, 'timestr': '2025-12-03 17:43:29'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.33801988472722, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764014, 'timestr': '2025-12-03 17:43:34'}
+Emitted to UI: {'name': 'sushant', 'confidence': 46.98881572442023, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764019, 'timestr': '2025-12-03 17:43:39'}
+Emitted to UI: {'name': 'sushant', 'confidence': 47.93393745022642, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764024, 'timestr': '2025-12-03 17:43:44'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.89259890080091, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764030, 'timestr': '2025-12-03 17:43:50'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.47125185110094, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764035, 'timestr': '2025-12-03 17:43:55'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.347108395479125, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764040, 'timestr': '2025-12-03 17:44:00'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.161900736432976, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764045, 'timestr': '2025-12-03 17:44:05'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.16508601114434, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764050, 'timestr': '2025-12-03 17:44:10'}
+Emitted to UI: {'name': 'sushant', 'confidence': 45.437722933587295, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764055, 'timestr': '2025-12-03 17:44:15'}
+Emitted to UI: {'name': 'Nitin', 'confidence': 63.978716624579114, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764059, 'timestr': '2025-12-03 17:44:19'}
+Emitted to UI: {'name': 'sushant', 'confidence': 60.102516705609666, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764060, 'timestr': '2025-12-03 17:44:20'}
+Emitted to UI: {'name': 'Nitin', 'confidence': 67.56954551588059, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764067, 'timestr': '2025-12-03 17:44:27'}
+Emitted to UI: {'name': 'sushant', 'confidence': 56.08186704903009, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764067, 'timestr': '2025-12-03 17:44:27'}
+Emitted to UI: {'name': 'sushant', 'confidence': 58.04145482230839, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764072, 'timestr': '2025-12-03 17:44:32'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.77502617373773, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764077, 'timestr': '2025-12-03 17:44:37'}
+Emitted to UI: {'name': 'sushant', 'confidence': 48.409642599541826, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764082, 'timestr': '2025-12-03 17:44:42'}
+Emitted to UI: {'name': 'sushant', 'confidence': 48.74296760545832, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764087, 'timestr': '2025-12-03 17:44:47'}
+Emitted to UI: {'name': 'sushant', 'confidence': 52.67133317417077, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764092, 'timestr': '2025-12-03 17:44:52'}
+Emitted to UI: {'name': 'sushant', 'confidence': 47.41768501306064, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764097, 'timestr': '2025-12-03 17:44:57'}
+Emitted to UI: {'name': 'sushant', 'confidence': 48.38218955340725, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764102, 'timestr': '2025-12-03 17:45:02'}
+Emitted to UI: {'name': 'Nitin', 'confidence': 54.72539875214439, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764105, 'timestr': '2025-12-03 17:45:05'}
+Emitted to UI: {'name': 'sushant', 'confidence': 45.160163153717065, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764107, 'timestr': '2025-12-03 17:45:07'}
+Emitted to UI: {'name': 'sushant', 'confidence': 48.39369369480821, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764112, 'timestr': '2025-12-03 17:45:12'}
+Emitted to UI: {'name': 'Nitin', 'confidence': 54.55947287015018, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764115, 'timestr': '2025-12-03 17:45:15'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.674839053058896, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764118, 'timestr': '2025-12-03 17:45:18'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.70402928523154, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764123, 'timestr': '2025-12-03 17:45:23'}
+Emitted to UI: {'name': 'Nitin', 'confidence': 58.56990653501849, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764124, 'timestr': '2025-12-03 17:45:24'}
+Emitted to UI: {'name': 'sushant', 'confidence': 48.70329768976736, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764128, 'timestr': '2025-12-03 17:45:28'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.65399011682349, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764133, 'timestr': '2025-12-03 17:45:33'}
+Emitted to UI: {'name': 'sushant', 'confidence': 54.777522713658676, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764138, 'timestr': '2025-12-03 17:45:38'}
+Emitted to UI: {'name': 'sushant', 'confidence': 47.4406882476495, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764143, 'timestr': '2025-12-03 17:45:43'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.926603675159505, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764148, 'timestr': '2025-12-03 17:45:48'}
+Emitted to UI: {'name': 'sushant', 'confidence': 54.09909869806099, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764153, 'timestr': '2025-12-03 17:45:53'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.586033790868065, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764158, 'timestr': '2025-12-03 17:45:58'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.56578381223153, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764163, 'timestr': '2025-12-03 17:46:03'}
+Emitted to UI: {'name': 'sushant', 'confidence': 48.011438777862665, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764168, 'timestr': '2025-12-03 17:46:08'}
+Emitted to UI: {'name': 'sushant', 'confidence': 55.072102250009166, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764173, 'timestr': '2025-12-03 17:46:13'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.62290194930258, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764178, 'timestr': '2025-12-03 17:46:18'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.55863794675859, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764183, 'timestr': '2025-12-03 17:46:23'}
+Emitted to UI: {'name': 'Nitin', 'confidence': 54.82656867763026, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764186, 'timestr': '2025-12-03 17:46:26'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.6685604517567, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764188, 'timestr': '2025-12-03 17:46:28'}
+Emitted to UI: {'name': 'Nitin', 'confidence': 53.64595750731568, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764193, 'timestr': '2025-12-03 17:46:33'}
+Emitted to UI: {'name': 'sushant', 'confidence': 52.82824388610065, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764193, 'timestr': '2025-12-03 17:46:33'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.96041429613108, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764198, 'timestr': '2025-12-03 17:46:38'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.505760850379524, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764203, 'timestr': '2025-12-03 17:46:43'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.53497913013038, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764208, 'timestr': '2025-12-03 17:46:48'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.45761554604937, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764213, 'timestr': '2025-12-03 17:46:53'}
+Emitted to UI: {'name': 'sushant', 'confidence': 47.90316974570703, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764218, 'timestr': '2025-12-03 17:46:58'}
+Emitted to UI: {'name': 'sushant', 'confidence': 46.89005535724201, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764223, 'timestr': '2025-12-03 17:47:03'}
+Emitted to UI: {'name': 'sushant', 'confidence': 46.96376715891322, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764228, 'timestr': '2025-12-03 17:47:08'}
+Emitted to UI: {'name': 'sushant', 'confidence': 47.81685280544211, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764233, 'timestr': '2025-12-03 17:47:13'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.00858270320622, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764238, 'timestr': '2025-12-03 17:47:18'}
+Emitted to UI: {'name': 'sushant', 'confidence': 56.84828184873202, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764243, 'timestr': '2025-12-03 17:47:23'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.3276083598642, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764248, 'timestr': '2025-12-03 17:47:28'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.17717819570628, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764254, 'timestr': '2025-12-03 17:47:34'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.30306600071287, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764259, 'timestr': '2025-12-03 17:47:39'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.527823700199846, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764264, 'timestr': '2025-12-03 17:47:44'}
+Emitted to UI: {'name': 'sushant', 'confidence': 52.97593470180108, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764269, 'timestr': '2025-12-03 17:47:49'}
+Emitted to UI: {'name': 'sushant', 'confidence': 53.06931981583095, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764274, 'timestr': '2025-12-03 17:47:54'}
+Emitted to UI: {'name': 'sushant', 'confidence': 56.38667424500842, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764279, 'timestr': '2025-12-03 17:47:59'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.68815888328812, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764284, 'timestr': '2025-12-03 17:48:04'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.37452397019707, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764289, 'timestr': '2025-12-03 17:48:09'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.19222378723738, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764294, 'timestr': '2025-12-03 17:48:14'}
+Emitted to UI: {'name': 'sushant', 'confidence': 48.755934576726915, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764299, 'timestr': '2025-12-03 17:48:19'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.18074329148307, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764304, 'timestr': '2025-12-03 17:48:24'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.196183602031205, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764309, 'timestr': '2025-12-03 17:48:29'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.578588178228046, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764314, 'timestr': '2025-12-03 17:48:34'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.50696055207175, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764319, 'timestr': '2025-12-03 17:48:39'}
+Emitted to UI: {'name': 'Nitin', 'confidence': 58.03610346106983, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764322, 'timestr': '2025-12-03 17:48:42'}
+Emitted to UI: {'name': 'sushant', 'confidence': 58.53166999317796, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764325, 'timestr': '2025-12-03 17:48:45'}
+Emitted to UI: {'name': 'sushant', 'confidence': 44.58707586969535, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764330, 'timestr': '2025-12-03 17:48:50'}
+Emitted to UI: {'name': 'sushant', 'confidence': 46.25158442047229, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764335, 'timestr': '2025-12-03 17:48:55'}
+Emitted to UI: {'name': 'sushant', 'confidence': 52.31529231504206, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764340, 'timestr': '2025-12-03 17:49:00'}
+Emitted to UI: {'name': 'Nitin', 'confidence': 55.578598867534936, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764345, 'timestr': '2025-12-03 17:49:05'}
+Emitted to UI: {'name': 'sushant', 'confidence': 56.170803816841754, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764345, 'timestr': '2025-12-03 17:49:05'}
+Emitted to UI: {'name': 'sushant', 'confidence': 52.064697350768334, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764350, 'timestr': '2025-12-03 17:49:10'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.33423725352664, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764355, 'timestr': '2025-12-03 17:49:15'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.97654912750314, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764360, 'timestr': '2025-12-03 17:49:20'}
+Emitted to UI: {'name': 'sushant', 'confidence': 53.50514817001956, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764365, 'timestr': '2025-12-03 17:49:25'}
+Emitted to UI: {'name': 'sushant', 'confidence': 52.874681091886785, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764370, 'timestr': '2025-12-03 17:49:30'}
+Emitted to UI: {'name': 'Nitin', 'confidence': 67.77198557648349, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764373, 'timestr': '2025-12-03 17:49:33'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.61545907349631, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764375, 'timestr': '2025-12-03 17:49:35'}
+Emitted to UI: {'name': 'sushant', 'confidence': 56.05408469588914, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764382, 'timestr': '2025-12-03 17:49:42'}
+Emitted to UI: {'name': 'sushant', 'confidence': 64.95388636497113, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764387, 'timestr': '2025-12-03 17:49:47'}
+Emitted to UI: {'name': 'sushant', 'confidence': 57.38367882245991, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764392, 'timestr': '2025-12-03 17:49:52'}
+Emitted to UI: {'name': 'sushant', 'confidence': 48.509318694984934, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764397, 'timestr': '2025-12-03 17:49:57'}
+Emitted to UI: {'name': 'sushant', 'confidence': 47.65539625457638, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764402, 'timestr': '2025-12-03 17:50:02'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.6986696041942, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764407, 'timestr': '2025-12-03 17:50:07'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.5647027965299, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764412, 'timestr': '2025-12-03 17:50:12'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.34380532532588, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764417, 'timestr': '2025-12-03 17:50:17'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.17993978616487, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764422, 'timestr': '2025-12-03 17:50:22'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.28827408655219, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764427, 'timestr': '2025-12-03 17:50:27'}
+Emitted to UI: {'name': 'sushant', 'confidence': 47.69080337038235, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764432, 'timestr': '2025-12-03 17:50:32'}
+Emitted to UI: {'name': 'sushant', 'confidence': 47.65792327839795, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764437, 'timestr': '2025-12-03 17:50:37'}
+Emitted to UI: {'name': 'sushant', 'confidence': 48.10764069944366, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764442, 'timestr': '2025-12-03 17:50:42'}
+Emitted to UI: {'name': 'sushant', 'confidence': 52.39723305447877, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764448, 'timestr': '2025-12-03 17:50:48'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.69625309696388, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764453, 'timestr': '2025-12-03 17:50:53'}
+Emitted to UI: {'name': 'Nitin', 'confidence': 65.64280632137955, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764456, 'timestr': '2025-12-03 17:50:56'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.640607008470795, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764458, 'timestr': '2025-12-03 17:50:58'}
+Emitted to UI: {'name': 'sushant', 'confidence': 52.67994794513784, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764464, 'timestr': '2025-12-03 17:51:04'}
+Emitted to UI: {'name': 'Nitin', 'confidence': 68.43793207711455, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764464, 'timestr': '2025-12-03 17:51:04'}
+Emitted to UI: {'name': 'sushant', 'confidence': 52.75161827151566, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764469, 'timestr': '2025-12-03 17:51:09'}
+Emitted to UI: {'name': 'Nitin', 'confidence': 65.60810110923315, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764470, 'timestr': '2025-12-03 17:51:10'}
+Emitted to UI: {'name': 'sushant', 'confidence': 54.60034128911655, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764474, 'timestr': '2025-12-03 17:51:14'}
+Emitted to UI: {'name': 'Nitin', 'confidence': 52.63963422589878, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764477, 'timestr': '2025-12-03 17:51:17'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.80545396305784, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764479, 'timestr': '2025-12-03 17:51:19'}
+Emitted to UI: {'name': 'sushant', 'confidence': 47.29482786866963, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764484, 'timestr': '2025-12-03 17:51:24'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.60678458988494, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764489, 'timestr': '2025-12-03 17:51:29'}
+Emitted to UI: {'name': 'sushant', 'confidence': 54.0512385620861, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764494, 'timestr': '2025-12-03 17:51:34'}
+Emitted to UI: {'name': 'sushant', 'confidence': 48.92059280114152, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764499, 'timestr': '2025-12-03 17:51:39'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.490386635475176, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764504, 'timestr': '2025-12-03 17:51:44'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.73344038067948, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764509, 'timestr': '2025-12-03 17:51:49'}
+Emitted to UI: {'name': 'sushant', 'confidence': 48.482594235779814, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764514, 'timestr': '2025-12-03 17:51:54'}
+Emitted to UI: {'name': 'sushant', 'confidence': 48.83191290568754, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764519, 'timestr': '2025-12-03 17:51:59'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.68186747494253, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764524, 'timestr': '2025-12-03 17:52:04'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.578853311147604, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764529, 'timestr': '2025-12-03 17:52:09'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.91133939503638, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764534, 'timestr': '2025-12-03 17:52:14'}
+Emitted to UI: {'name': 'sushant', 'confidence': 48.13321916373424, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764539, 'timestr': '2025-12-03 17:52:19'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.22963646725716, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764544, 'timestr': '2025-12-03 17:52:24'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.59883660648498, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764549, 'timestr': '2025-12-03 17:52:29'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.24319174917821, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764554, 'timestr': '2025-12-03 17:52:34'}
+Emitted to UI: {'name': 'sushant', 'confidence': 48.09151254018208, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764559, 'timestr': '2025-12-03 17:52:39'}
+Emitted to UI: {'name': 'sushant', 'confidence': 48.49022442986298, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764564, 'timestr': '2025-12-03 17:52:44'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.59535815080609, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764569, 'timestr': '2025-12-03 17:52:49'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.781536320349275, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764574, 'timestr': '2025-12-03 17:52:54'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.8410285194471, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764579, 'timestr': '2025-12-03 17:52:59'}
+Emitted to UI: {'name': 'sushant', 'confidence': 51.03447682372381, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764584, 'timestr': '2025-12-03 17:53:04'}
+Emitted to UI: {'name': 'sushant', 'confidence': 52.80225912814419, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764589, 'timestr': '2025-12-03 17:53:09'}
+Emitted to UI: {'name': 'sushant', 'confidence': 47.68135582589884, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764595, 'timestr': '2025-12-03 17:53:15'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.54301355631617, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764600, 'timestr': '2025-12-03 17:53:20'}
+Emitted to UI: {'name': 'sushant', 'confidence': 47.93177773126696, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764605, 'timestr': '2025-12-03 17:53:25'}
+Emitted to UI: {'name': 'sushant', 'confidence': 55.01644018776827, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764610, 'timestr': '2025-12-03 17:53:30'}
+Emitted to UI: {'name': 'sushant', 'confidence': 46.50447785511879, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764615, 'timestr': '2025-12-03 17:53:35'}
+Emitted to UI: {'name': 'sushant', 'confidence': 49.86871246046791, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764620, 'timestr': '2025-12-03 17:53:40'}
+Emitted to UI: {'name': 'sushant', 'confidence': 48.291651715783374, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764625, 'timestr': '2025-12-03 17:53:45'}
+Emitted to UI: {'name': 'sushant', 'confidence': 52.58466824200491, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764630, 'timestr': '2025-12-03 17:53:50'}
+Emitted to UI: {'name': 'sushant', 'confidence': 60.246954393708705, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764639, 'timestr': '2025-12-03 17:53:59'}
+Emitted to UI: {'name': 'Nitin', 'confidence': 58.412488972602524, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764639, 'timestr': '2025-12-03 17:53:59'}
+Emitted to UI: {'name': 'sushant', 'confidence': 63.49868411409664, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764645, 'timestr': '2025-12-03 17:54:05'}
+Emitted to UI: {'name': 'Nitin', 'confidence': 59.159950468565995, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764645, 'timestr': '2025-12-03 17:54:05'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.33560361704761, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764650, 'timestr': '2025-12-03 17:54:10'}
+Emitted to UI: {'name': 'sushant', 'confidence': 48.22745479042026, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764655, 'timestr': '2025-12-03 17:54:15'}
+Emitted to UI: {'name': 'sushant', 'confidence': 48.48134479495464, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764660, 'timestr': '2025-12-03 17:54:20'}
+Emitted to UI: {'name': 'sushant', 'confidence': 48.02119743392772, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764665, 'timestr': '2025-12-03 17:54:25'}
+Emitted to UI: {'name': 'sushant', 'confidence': 50.13131296662014, 'snapshot': '/static/default_snapshot.png', 'timestamp': 1764764670, 'timestr': '2025-12-03 17:54:30'}
+UI Disconnected
+127.0.0.1 - - [03/Dec/2025 17:55:13] code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06ezz\x00\x00\x00-\x00\x02\x01\x01\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
+127.0.0.1 - - [03/Dec/2025 17:55:13] "Ò ÎJô³jë $÷½ÁxöI<½RÎD©8ßÖìhñ öO¾Ê1*îQÁ¥LáûX}DkùMäö ±úÑb  JJÀ+À/À,À0Ì©Ì¨ÀÀ   / 5 ezz   -    ÿ         " 400 -
+127.0.0.1 - - [03/Dec/2025 17:55:13] code 400, message Bad request version ('\x9b1uAjz\x06!N\x14}=\x10')
+127.0.0.1 - - [03/Dec/2025 17:55:13] "² ®ûVû8¦ ]ò.£¡æ(¨í¸éÐû='X ¦Úî)ÆÈ¨#ÊÑÑ&ì¤Ç$kêé¿ì~  jjÀ+À/À,À0Ì©Ì¨ÀÀ   / 5 E      + ªª      h2http/1.1DÍ  h2 3ïí**  ìÀOû{Pfi¬©Ò0+}ëZ"ó´2¼+¢q¸725]¤øbõCÀ3\Ö4<¹Ç>ô¡$í9ÒAw EÛZ¨Saub	K9·ÎSª|¹)T¢^µÄr³£ùãsådS_Xa\ejÏáä¤¬UË%AMòuWð²PjÏ ¢»ó%A§ÂkHIWÈ¥h*6b^¦ ¹n¹Sa+×)ÉK[	»¬QWóyU:U| 1uAjz!N}=" 400 -
+127.0.0.1 - - [03/Dec/2025 17:55:13] code 400, message Bad request version ('\x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥::\x00\x00\x00+\x00\x07\x06ZZ\x03\x04\x03\x03\x00\x12\x00\x00\x00-\x00\x02\x01\x01\x00')
+127.0.0.1 - - [03/Dec/2025 17:55:13] " «»ñÀcè{MÚðÜ·G÷<üq'¸g§ÝFè 4±%d¼8üYÄ~2<×?MGCªö7±ÛòÑx  À+À/À,À0Ì©Ì¨ÀÀ   / 5 ¥::   + ZZ    -  " 400 -
+127.0.0.1 - - [03/Dec/2025 17:55:13] code 400, message Bad request version ('\x8e')
+127.0.0.1 - - [03/Dec/2025 17:55:13] " ´ÈÎ÷iÀÖ¢mî³®-Õæ=µÝNàkSÍ­¹]¦ Þ`vÆd¾´Ó=Úz>Ó°Stxôélûr¢Ð  ::À+À/À,À0Ì©Ì¨ÀÀ   / 5 ¥JJ  þ      #Ò«RÊZqºl" 400 -
+127.0.0.1 - - [03/Dec/2025 17:55:16] code 400, message Bad request version ('\x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06eªª\x00\x00\x003\x04ï\x04íJJ\x00\x01\x00\x11ì\x04ÀV\x104zzC')
+127.0.0.1 - - [03/Dec/2025 17:55:16] "Ò Îê¸ØAùÌ»<ðy.óÃ¶ø Þ@&¡: JyÄDìI	ûÜkEMa[A.ý§®k[  À+À/À,À0Ì©Ì¨ÀÀ   / 5 eªª   3ïíJJ  ìÀV4zzC" 400 -
+127.0.0.1 - - [03/Dec/2025 17:55:16] code 400, message Bad request version ('rJ¨')
+127.0.0.1 - - [03/Dec/2025 17:55:16] " Ê:G¯á>Naáá{ÏjÍæ Æ³NÅ,&±ö¯X ÌÎªH83pþÕ<rU}µ Íl#)ðÛËÈÊ¨  ZZÀ+À/À,À0Ì©Ì¨ÀÀ   / 5 ¥ÊÊ  DÍ  h2 #     þ   Ê  hÜÁ¶#rÉ®z×ú3(3#\W©' ðácktìà³È´æØFüÉ*z}|<nÌi*jù#¾^Ãìáaú¾95çº>¯&ò:J(k|Ä+"´Êm@'ÅÛ@^ »þ¹e ×qÓYÚkf¢a¶þPEÜsÈ»¥È$yöÇrJ¨" 400 -
+127.0.0.1 - - [03/Dec/2025 17:55:16] code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06¥\x8a\x8a\x00\x00\x00-\x00\x02\x01\x01\x00')
+127.0.0.1 - - [03/Dec/2025 17:55:16] " uÝµ·ó}>ë]×ÛM{L?p=ék9 X8FÝÚò /½Í¿­¾Hrä#.ïhÎÊ¨ºÝ@ø&µØ  **À+À/À,À0Ì©Ì¨ÀÀ   / 5 ¥   -  " 400 -
+127.0.0.1 - - [03/Dec/2025 17:55:16] code 400, message Bad request version ('localhostÿ\x01\x00\x01\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x003\x04ï\x04íêê\x00\x01\x00\x11ì\x04Àÿ\x07\x9fìi\x8cÑtª\x95åÊ\x12ÑO&\x889ÿ1\xad\x81¡fM%Ì°Ú&ò&s@\x91RÌàW\x8d\x99\x00\x93{\x8a}ÔI>©\x19cð\x93\x14\x11Qt÷q0Y&¼\x89')
+127.0.0.1 - - [03/Dec/2025 17:55:16] "Ò ÎÖ?ß[£²³2Ò­Ä9¿\6ÑÃ,ÉIs+Q7 ®=oUsù@yWÔùÿ¨}ûZüþá  jjÀ+À/À,À0Ì©Ì¨ÀÀ   / 5 eúú        	localhostÿ         3ïíêê  ìÀÿìiÑtªåÊÑO&9ÿ1­¡fM%Ì°Ú&ò&s@RÌàW {}ÔI>©cðQt÷q0Y&¼" 400 -

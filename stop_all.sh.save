@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# stop_all.sh — stop UI and recognizer
+
+# Stop Flask UI server
+pkill -f "python -u ui/app.py" || true
+
+# Stop recognizer
+pkill -f "python recognize_face.py" || true
+
+echo "All Smart Home Security services 
+stopped."
+

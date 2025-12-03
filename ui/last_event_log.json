@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "Content-Type": "application/json",
+    "Content-Length": "100",
+    "Host": "127.0.0.1:5000",
+    "User-Agent": "curl/8.7.1",
+    "Accept": "*/*"
+  },
+  "raw": "{\"name\":\"Sushant\",\"confidence\":42.3,\"snapshot\":\"/mnt/data/Screenshot 2025-11-03 at 10.56.00 PM.png\"}",
+  "payload": {
+    "name": "Sushant",
+    "confidence": 42.3,
+    "snapshot": "/mnt/data/Screenshot 2025-11-03 at 10.56.00 PM.png",
+    "timestamp": 1764327814,
+    "timestr": "2025-11-28 16:33:34"
+  }
+}
